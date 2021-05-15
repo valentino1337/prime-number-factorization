@@ -1,5 +1,0 @@
-bude postupne dividovat vsetkymi prime numbers dokym nenarazi na int(nie float), potom rozlozi ten atd
-
--mohol by byt graf
--mohlo by urobit graf tree
--mohlo by to mat aj gui
