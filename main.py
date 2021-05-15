@@ -94,7 +94,6 @@ while done == False:
     else: pass
     primes.append(rozlprime)
     numbers.append(rozl1)
-    print(primes)
     ktorearray = ktorearray + 1
 
 print(resultis + str(rozklad) + resultis0 + '*'.join(map(str, primes)))
